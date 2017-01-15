@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_content_sharing"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.smart.develop.training.content_sharing.ContentSharingActivity">
+    <ListView
+        android:id="@+id/content_sharing_lv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+</RelativeLayout>

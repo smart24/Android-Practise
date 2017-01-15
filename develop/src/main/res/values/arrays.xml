@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Root Menu-->
+    <string-array name="root_menu">
+        <item>@string/training</item>
+        <item>@string/api_guides</item>
+        <item>@string/reference</item>
+        <item>@string/samples</item>
+        <item>@string/android_studio</item>
+        <item>@string/android_ndk</item>
+        <item>@string/google_services</item>
+    </string-array>
+
+    <!--Training Menu-->
+    <string-array name="training_menu">
+        <item>@string/getting_start</item>
+        <item>@string/content_sharing</item>
+        <item>@string/multimedia</item>
+        <item>@string/graphic_animation</item>
+        <item>@string/connectivity_cloud</item>
+        <item>@string/location_map</item>
+        <item>@string/user_info_sign_in</item>
+        <item>@string/wearables</item>
+        <item>@string/tv</item>
+        <item>@string/auto</item>
+        <item>@string/interaction_engagement</item>
+        <item>@string/user_interface</item>
+        <item>@string/user_input</item>
+        <item>@string/background_job</item>
+        <item>@string/performance</item>
+        <item>@string/security_privacy</item>
+        <item>@string/permissions_identifiers</item>
+        <item>@string/testing</item>
+        <item>@string/distribute_monetize</item>
+    </string-array>
+
+    <!--Getting Started Menu-->
+    <string-array name="getting_started_menu">
+        <item>@string/building_your_first_app</item>
+        <item>@string/supporting_different_devices</item>
+        <item>@string/building_dynamic_ui</item>
+        <item>@string/saving_data</item>
+        <item>@string/interacting_with_other_apps</item>
+        <item>@string/working_with_system_permissions</item>
+    </string-array>
+
+    <!--Building Dynamic UI Headlines-->
+    <string-array name="headlines">
+        <item>@string/first</item>
+        <item>@string/second</item>
+        <item>@string/third</item>
+    </string-array>
+    <string-array name="article">
+        <item>@string/first_article</item>
+        <item>@string/second_article</item>
+        <item>@string/third_article</item>
+    </string-array>
+
+    <!--Interacting with Other Apps-->
+    <string-array name="interacting_menu">
+        <item>@string/sending_user_to_another_app</item>
+        <item>@string/getting_result_from_an_activity</item>
+        <item>@string/allow_other_to_start</item>
+    </string-array>
+
+    <!--Content Sharing-->
+    <string-array name="content_sharing_menu">
+        <item>@string/sharing_simple_data</item>
+        <item>@string/sharing_files</item>
+        <item>@string/sharing_files_nfc</item>
+    </string-array>
+</resources>

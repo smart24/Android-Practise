@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Develop</string>
+
+    <!--Root Menu-->
+    <string name="training">Training</string>
+    <string name="api_guides">API Guides</string>
+    <string name="reference">Reference</string>
+    <string name="samples">Samples</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="android_ndk">Android NDK</string>
+    <string name="google_services">Google Services</string>
+    <string name="please_input_something">Please Input Some Words</string>
+    <string name="send">Send</string>
+    <string name="nothing">Nothing</string>
+    <string name="save">Save</string>
+    <string name="read">Read</string>
+    <string name="insert">Insert</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="query">Query</string>
+
+    <!--Training Menu-->
+    <string name="getting_start">Getting Started</string>
+
+    <!--Getting Started Menu-->
+    <string name="building_your_first_app">Building Your First App</string>
+
+    <string name="supporting_different_devices">Supporting Different Devices</string>
+    <string name="supporting_different_languages">支持不同的语言</string>
+    <string name="supporting_different_screen">支持不同的屏幕尺寸（竖屏）</string>
+    <string name="supporting_different_screen_orientation">支持不同的屏幕尺寸（横屏）</string>
+
+    <string name="building_dynamic_ui">Building Dynamic UI with Fragment</string>
+    <string name="first">库里35分勇士胜开拓者</string>
+    <string name="first_article">勇士（31-5）四连胜。斯蒂芬-库里三分球13投5中，得了35分、7个篮板和5次助攻，凯文-杜兰特30分，克雷-汤普森14分，扎扎-帕楚里亚13分。</string>
+    <string name="second">詹皇31分骑士负公牛</string>
+    <string name="second_article">公牛（18-18）二连胜。吉米-巴特勒在最后时刻发威，全场拿下了20分、8次助攻和6个篮板，塔基-吉布森18分7个篮板，迈克尔-卡特-威廉姆斯13分，德维恩-韦德 10分。替补出场的道格-迈克德莫特17分6个篮板，尼科拉-米尔斯16分。</string>
+    <string name="third">威少33分雷霆负黄蜂</string>
+    <string name="third_article">雷霆（21-15）二连败。拉塞尔-威斯布鲁克31投10中，得了33分、15个篮板和8次助攻，维克托-奥拉迪波18分5次助攻，斯蒂芬-亚当斯18分12个篮板，另两名首发总共只得4分。替补出场的伊尼斯-坎特22分8个篮板。</string>
+
+    <string name="saving_data">Saving Data</string>
+    <string name="shared_preference">Shared Preferences</string>
+    <string name="file">Files</string>
+    <string name="internal_file">Internal File</string>
+    <string name="external_file">External File</string>
+    <string name="database">Database</string>
+
+    <string name="interacting_with_other_apps">Interacting with Other Apps</string>
+    <string name="sending_user_to_another_app">Sending the User to Another App</string>
+    <string name="dial_a_phone">Dial a Phone</string>
+    <string name="view_a_map">View a Map</string>
+    <string name="view_a_web">View a Web</string>
+    <string name="verify_intent">Verify Is there a App Can Response</string>
+    <string name="show_chooser">Show a Chooser</string>
+    <string name="getting_result_from_an_activity">Getting a Result from an Activity</string>
+    <string name="read_contact">Read Contact</string>
+    <string name="allow_other_to_start">Allowing Other Apps to Start Your Activity</string>
+    <string name="receive">Receive</string>
+    <string name="feedback">Feedback</string>
+    <string name="finish">Finish</string>
+
+    <string name="working_with_system_permissions">Working with System Permissions</string>
+    <string name="prompt_message">In order to continue to your work, you should grant this permission</string>
+
+    <!--Content Sharing-->
+    <string name="content_sharing">Content Sharing</string>
+    <string name="sharing_simple_data">Sharing Simple Data</string>
+    <string name="get_image">Get Image</string>
+    <string name="send_image">Send Image</string>
+    <string name="please_choose_a_picture">Please pick a picture</string>
+    <string name="share_action_provider">Share Action Provider</string>
+    <string name="detail_operate_flow">具体操作流程如下：首先函数中的条件全部满足并将 intent 添加至 ShareProvider 之后，右上角的分享图标才有用</string>
+    <string name="sharing_files">Sharing Files</string>
+    <string name="des_file_name">File Name</string>
+    <string name="des_file_type">File Type</string>
+    <string name="des_file_size">File Size</string>
+    <string name="des_file_content">File Content</string>
+    <string name="retrieve_file">Retrieve File</string>
+    <string name="file_selection">文件选择</string>
+    <string name="sharing_files_nfc">Sharing Files with NFC</string>
+    <string name="not_support_nfc">Android Beam file transfer is not supported</string>
+    <string name="support_nfc">NFC SUPPORTED</string>
+
+    <string name="multimedia">Multimedia</string>
+    <string name="graphic_animation">Graphic and Animation</string>
+    <string name="connectivity_cloud">Connectivity and the Cloud</string>
+    <string name="location_map">Location and Map</string>
+    <string name="user_info_sign_in">User Info and Sign-In</string>
+    <string name="wearables">Wearables</string>
+    <string name="tv">TV</string>
+    <string name="auto">Auto</string>
+    <string name="interaction_engagement">Interaction and Engagement</string>
+    <string name="user_interface">User Interface</string>
+    <string name="user_input">User Input</string>
+    <string name="background_job">Background Job</string>
+    <string name="performance">Performance</string>
+    <string name="security_privacy">Security and Privacy</string>
+    <string name="permissions_identifiers">Permissions and Identifiers</string>
+    <string name="testing">Testing</string>
+    <string name="distribute_monetize">Distribute and Monetize</string>
+
+
+</resources>

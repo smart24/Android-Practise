@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_first"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context="com.smart.develop.training.getting_started.building_your_first_app.FirstActivity">
+
+    <!--此处的 ems="3" 属性代表的是当 layout_width 属性设置为 wrap_content 时，EditText 的默认宽度
+    -->
+    <EditText
+        android:id="@+id/content"
+        android:layout_width="@dimen/zero_padding"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:inputType="text"
+        android:hint="@string/please_input_something"
+        />
+
+    <Button
+        android:id="@+id/send"
+        android:text="@string/send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         />
+
+</LinearLayout>
